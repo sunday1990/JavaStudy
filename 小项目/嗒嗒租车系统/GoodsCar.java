@@ -1,6 +1,4 @@
-public class GoodsCar extends Car{
-		//载货量
-	public  float goodsCount;
+public class GoodsCar extends Car{	
 	GoodsCar(String name ,float goodsCount,float price){
 		this.price = price;
 		this.name = name;
@@ -8,6 +6,6 @@ public class GoodsCar extends Car{
 	}
 	@Override
 	public void drive(){
-		System.out.println("火车drive");
+		System.out.println("货车drive");
 	}
 }
