@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>My First web Page</title>
+	</head>
+
+	<body>
+		<h1>welcome to my first web page</h1>
+		<p>This is an HTML page I created in Notepad</p>
+	</body>
+</html>
